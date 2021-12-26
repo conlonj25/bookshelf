@@ -1,23 +1,26 @@
-# EE_417_WebProject
+# Bookshelf
 
-The url of the website is: http://63.33.46.149:8080/Bookshelf-FINAL/
-    
-Login informations:  
-* username : jamesc10
-* password : password
+Bookshelf is a mockup book retail website created as a group project foe DCU Module EE417 - Web Application Development (2021).
+* Create user profile
+* Login/logout
+* Browse sample catalog of books
+* Add books to shopping cart
+* Complete purchases and record all transactions
+
+# Contents
+* Bookshelf
+    * Contains all source code: HTML/CSS/JS/Java. Eclipse Web Project format.
+* Deployment 
+    * Contains .WAR file for deployment on Apache Tomcat.
+* SQL Scripts
+    * Contains all DDL used to define database structure and populate it with a sample catalog of books.
+
+# Screenshots
+Landing Page
+![alt text](Screenshots/index.png?raw=true)
   
-or you can create your own account directly on the website.
-Bookshelf contains the Eclipse project.
-    
-Just clone a copy of the repo to your own machine.
-In Eclipse click File > Open Projects From File System and select the
-Bookshelf directory.
-    
-All SQL operations contained within a single script 'bookshelf.sql'.
-This is just a text-based file.
-    
-Deployment contains deployable WAR file.
-To open the war file :
-open tomcat manager, go down the page.
-Click on browse to deploy the war.
-choose your war file.
+Login/Logout/Sign-up
+![alt text](Screenshots/login.png?raw=true)
+  
+Browse and buy books
+![alt text](Screenshots/popup2.png?raw=true)
