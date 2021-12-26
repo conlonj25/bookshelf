@@ -1,6 +1,6 @@
 # Bookshelf
 
-Bookshelf is a mockup book retail website created as a group project foe DCU Module EE417 - Web Application Development (2021).
+Bookshelf is a mockup book retail website created as a group project for DCU Module EE417 - Web Application Development (2021).
 * Create user profile
 * Login/logout
 * Browse sample catalog of books
