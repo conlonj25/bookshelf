@@ -7,20 +7,16 @@ Bookshelf is a mockup book retail website created as a group project for DCU Mod
 * Add books to shopping cart
 * Complete purchases and record all transactions
 
-# Contents
-* Bookshelf
+# Project Structure
+* /Bookshelf
     * Contains all source code: HTML/CSS/JS/Java. Eclipse Web Project format.
-* Deployment 
+* /Deployment 
     * Contains .WAR file for deployment on Apache Tomcat.
-* SQL Scripts
+* /SQL Scripts
     * Contains all DDL used to define database structure and populate it with a sample catalog of books.
 
 # Screenshots
-Landing Page
-![alt text](Screenshots/index.png?raw=true)
-  
-Login/Logout/Sign-up
-![alt text](Screenshots/login.png?raw=true)
-  
-Browse and buy books
-![alt text](Screenshots/popup2.png?raw=true)
+
+<p align="center"><img src="/Screenshots/index.png" alt="Screenshot 1" width="800"/></p>
+<p align="center"><img src="/Screenshots/login.png" alt="Screenshot 2" width="800"/></p>
+<p align="center"><img src="/Screenshots/popup2.png" alt="Screenshot 3" width="800"/></p>
